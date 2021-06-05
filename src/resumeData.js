@@ -1,10 +1,10 @@
 let resumeData = {
     "imagebaseurl":"https://github.com/yuvraj-parashar",
     "name": "Yuvraj Parashar",
-    "role": "Web Developer",
+    "role": "Android Developer",
     "linkedinId":"https://www.linkedin.com/in/yuvraj-parashar/",
     "skypeid": "Your skypeid",
-    "roleDescription": "I like dabbling in various parts of frontend development and like to learn about new technologies, write technical articles or simply play games in my free time.",
+    "roleDescription": "I like dabbling in Android Studio and like to learn about new technologies, write technical articles or simply play games in my free time.",
     "socialLinks":[
         {
           "name":"linkedin",
@@ -22,7 +22,7 @@ let resumeData = {
           "className":"fa fa-twitter"
         }
       ],
-    "aboutme":"I am currently a second year student at The Institute of Technology and Management, Gwalior and pursuing my B.Tech from here. I am a self taught Web Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
+    "aboutme":"I am currently a second year student at The Institute of Technology and Management, Gwalior and pursuing my B.Tech from here. I am a self taught Android Developer. I believe that to be successful in life, one needs to be obsessive with their dreams and keep working towards them.",
     "address":"India",
     "website":"https://github.com/yuvraj-parashar",
     "education":[
@@ -44,7 +44,7 @@ let resumeData = {
     "work":[
       {
         "CompanyName":"ITM",
-        "specialization":"Front End Web Development",
+        "specialization":"Android Development",
         "MonthOfLeaving":"Jan",
         "YearOfLeaving":"2019",
         // "Achievements":"Some Achievements"
@@ -60,22 +60,19 @@ let resumeData = {
     // "skillsDescription":"Your skills here",
     "skills":[
       {
-        "skillname":"HTML5"
+        "skillname":"Java"
       },
       {
-        "skillname":"CSS"
+        "skillname":"Kotlin"
       },
       {
-        "skillname":"JavaScript"
+        "skillname":"Android Studio"
       },
       {
-        "skillname":"Reactjs"
+        "skillname":"HTML | CSS | Javascript"
       },
       {
         "skillname":"Git and GitHub"
-      },
-      {
-        "skillname":"Django"
       },
     ],
     "portfolio":[
